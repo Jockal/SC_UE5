@@ -22,4 +22,8 @@
 
 ## 📝 Лицензия
 
-Все права защищены.
+- Исходный код: Закрыт
+- Дистрибуция: Бинарные только
+- License: Custom Commercial EULA
+
+Full terms: [LICENSE](License.md)
