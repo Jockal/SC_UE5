@@ -1,4 +1,4 @@
-[![Discord](https://img.shields.io/discord/1508935630963605584?label=Discord&logo=discord&style=for-the-badge&color=5865F2)](https://discord.gg/yRhtw7xNzy)
+[![Discord](https://img.shields.io/discord/1508935630963605584?cacheSeconds=1&label=Discord&logo=discord&style=for-the-badge&color=5865F2)](https://discord.gg/yRhtw7xNzy)
 
 ## 📋 Системные требования
 
